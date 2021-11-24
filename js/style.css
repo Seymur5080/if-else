@@ -1,0 +1,26 @@
+.btn_style {
+   width: 200px;
+   height: 50px;
+   outline: none;
+   border: none;
+   border-radius: 5px;
+   background-color: #007ACC;
+   color: #fff;
+   cursor: pointer;
+   transition: all 0.5s ease 0s;
+}
+
+.btn_style:hover {
+   background-color: #0067ac;
+}
+
+.btn_style:active {
+   background-color: #00538a;
+}
+
+.inp_style {
+   display: block;
+   margin-top: 15px;
+   width: 190px;
+   height: 20px;
+}
